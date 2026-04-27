@@ -1,0 +1,1 @@
+Exposes data required by the Smart Hugo plugin.
